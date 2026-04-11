@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Biography
 
-### More Information
+Hello! I'm Fongang Jules Ferry, a 24-year-old Cameroonian currently living in Moscow, Russia. I'm in my first year of Business Informatics at RUDN University (Peoples' Friendship University of Russia). Born and raised in Cameroon, I've always been passionate about the intersection of technology and business. Today, that curiosity drives me to explore how data and digital systems can optimize organizational processes. I'm fluent in both English and French, which helps me connect with people from all over the world.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Interests
 
-### Contact me
+- **Technology & Innovation** – Passionate about emerging tech, data analytics, and digital transformation.
+- **Business Strategy** – Interested in how IT solutions can solve real-world business problems.
+- **Cultural Exchange** – Living in Moscow allows me to meet people from diverse backgrounds and learn from them.
+- **Reading & Continuous Learning** – Always exploring new topics in informatics, economics, and personal development.
 
-[email@domain.com](mailto:email@domain.com)
+## Education
+
+- **2025 – present:** Bachelor in Business Informatics (1st year) – RUDN University, Moscow, Russia
+- **Previous studies:** Secondary education – High school in Cameroon
+
+## Contact me
+
+[julesfongang@gmail.com](mailto:julesfongang@gmail.com)
